@@ -832,6 +832,10 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. [You
 - <a name="Wang21iccv"></a>Wang, Z., Ng, Y., Scheerlinck, C., Mahony., R.,  
 *[An Asynchronous Kalman Filter for Hybrid Event Cameras](https://openaccess.thecvf.com/content/ICCV2021/html/Wang_An_Asynchronous_Kalman_Filter_for_Hybrid_Event_Cameras_ICCV_2021_paper.html)*,  
 IEEE Int. Conf. Computer Vision (ICCV), 2021. [PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_An_Asynchronous_Kalman_Filter_for_Hybrid_Event_Cameras_ICCV_2021_paper.pdf), [Code](https://github.com/ziweiWWANG/AKF), [YouTube](https://www.youtube.com/watch?v=XPz7laloKws), [Suppl.](https://openaccess.thecvf.com/content/ICCV2021/supplemental/Wang_An_Asynchronous_Kalman_ICCV_2021_supplemental.pdf)
+- <a name="Xu21iccv"></a>Xu, Fang and Yu, Lei and Wang, Bishan and Yang, Wen and Xia, Gui-Song and Jia, Xu and Qiao, Zhendong and Liu, Jianzhuang,  
+*[Motion deblurring with real events](https://openaccess.thecvf.com/content/ICCV2021/html/Xu_Motion_Deblurring_With_Real_Events_ICCV_2021_paper.html)*,  
+IEEE Int. Conf. Computer Vision (ICCV), 2021. [PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Xu_Motion_Deblurring_With_Real_Events_ICCV_2021_paper.pdf), [Code](https://github.com/xufangchn/Motion-Deblurring-with-Real-Events)
+
 
 <a name="super-resolution"></a>
 ### Super-resolution
